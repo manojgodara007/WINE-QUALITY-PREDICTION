@@ -1,4 +1,4 @@
-# WINE-QUALITY-PREDICTION
+# WINE QUALITY PREDICTION
 Fun Projcet for college exam
 
 # Objctive
