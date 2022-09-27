@@ -5,7 +5,7 @@ Fun Procjet for college exam
 To experiment with different classification methods to see which yields the highest accuracy, 
 To determine which features are the most indicative of a good quality wine
 
-#Steps
+# Steps
 Loading Data
 Understanding Data
 Missing Values
