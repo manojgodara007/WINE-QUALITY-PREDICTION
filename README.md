@@ -1,5 +1,5 @@
 # WINE-QUALITY-PREDICTION
-Fun Procjet for college exam
+Fun Projcet for college exam
 
 # Objctive
 To experiment with different classification methods to see which yields the highest accuracy, 
